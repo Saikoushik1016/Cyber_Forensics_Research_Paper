@@ -1,0 +1,5 @@
+Dataset: AWS CloudTrail Logs
+Source: Kaggle
+Size: ~1,048,000 events
+Features: 19 original + 3 time features
+Download from: [Kaggle "https://www.kaggle.com/datasets/nobukim/aws-cloudtrails-dataset-from-flaws-cloud?resource=download"]
