@@ -1,0 +1,4 @@
+Algorithm,Accuracy,Precision,Recall,F1-Score
+Decision Tree,1.0000,1.0000,1.0000,1.0000
+Random Forest,1.0000,1.0000,1.0000,1.0000
+Gradient Boosting,1.0000,1.0000,1.0000,1.0000
