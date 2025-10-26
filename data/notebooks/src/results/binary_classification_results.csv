@@ -1,0 +1,4 @@
+Algorithm,Accuracy,Precision,Recall,F1-Score
+Random Forest,1.0000,1.0000,1.0000,1.0000
+Logistic Regression,1.0000,1.0000,1.0000,1.0000
+Gradient Boosting,1.0000,1.0000,1.0000,1.0000
